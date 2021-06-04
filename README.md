@@ -1,5 +1,5 @@
 # Labirynt - gra
 
-## Demo: [labirynt.krychaxp.pl](https://labirynt.krychaxp.pl)
+## Demo
 
-Jeśli masz jakieś propozycje/ulepszenia to pisz w issues.
+[https://lab-krychaxp.netlify.app/](https://lab-krychaxp.netlify.app/)
